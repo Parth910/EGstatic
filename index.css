@@ -1,0 +1,18 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+.overlay {
+  background: url(https://web.opendrive.com/api/v1/download/file.json/NTlfMTM5MzgyNzdf?inline=1);
+  height: 100%;
+  position: relative;
+  background-size: cover;
+}
+
+
+.c1{
+    min-height: 100% !important;
+    height: 100% !important;
+ }
